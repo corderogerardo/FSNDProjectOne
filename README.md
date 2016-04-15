@@ -10,3 +10,7 @@ Full Stack Web Developer Nanodegree program with Udacity.
 - Use more functions and OS Python Standard Library.
 - We use python to rename files by cleaning the number on them, so as result we got a secret message.
 
+### Classes
+
+- make use of the class Turtle for drawing square and circles.
+- 
